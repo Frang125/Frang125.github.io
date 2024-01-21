@@ -1,0 +1,21 @@
+ <div id="ciao2" style="background-color: brown;"></div>
+
+  #ciao2{
+        height: 350px;
+        width: 400px;
+
+
+
+    }
+
+
+
+
+
+    #ciao2{
+       width: 1840px;
+       height: 200px;
+
+
+
+    }
