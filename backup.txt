@@ -1,21 +1,13 @@
- <div id="ciao2" style="background-color: brown;"></div>
-
-  #ciao2{
-        height: 350px;
-        width: 400px;
 
 
 
-    }
-
-
-
-
-
-    #ciao2{
-       width: 1840px;
-       height: 200px;
-
+     #box{
+      color: white; 
+      font-size: 80px; 
+      width: 600px;
+      
+      
+     margin-left:100px;
 
 
     }
