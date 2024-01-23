@@ -4,96 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
      
     
-    
-    <!--inizio zona dimensioni schermo-->
-  <style>
-    
-    @media only screen and (max-width: 650px) {
-    body {
-    background-image: url("ss1.png");
-    width: 330x;
-    height: 400px;
-    
- 
-    }
-    span{
-       margin-left: 0px;
-     
 
-    }
-    #spazio{
-       margin-left: 20px;
-
-
-
-
-    }
-    #box{
-      width: 300px;
-      height: 400px; 
-      font-family: "Roboto", sans-serif;
-      font-style: normal;
-      color: white;
-      font-size: 30px;
-    }
-   
-    #ciao2{
-        height: 150px;
-        width: 350px;
-
-
-
-    }
-    
-  
-
-}
-
-
-
-@media only screen and (min-width: 651px){
-  body{
-      background-image: url("ss1.png");
-      background-repeat: repeat;
-     
-    }
-    p{
-      font-family: "Roboto", sans-serif;
-      
-      font-style: normal;
-
-    }
-    span{
-       margin-left: 40px;
-     
-
-    }
- 
-    #spazio{
-       margin-left: 1300px;
-
-
-
-
-    }
-    #box{
-      color: white; 
-      font-size: 80px; 
-      width: 800px;
-     margin-left:100px;
-
-
-    }
-    
-    
-
-}
-
-  </style> 
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-  
+    <link href="css.css" rel="stylesheet" type="text/css">
    
     <title>ciao</title>
   
@@ -101,7 +16,7 @@
 </head>
 <body>
   
-    <div id="spazio">
+    <div class="spazio">
     
     
       
@@ -128,12 +43,9 @@
      </div>
      
      
-    <div style="display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 100px;">
+    <div class="acc">
       <div>
-        <p id="box" >hello, this is my personal website. i am boy with passion of programming. i know java (java swing, android development) and i currentl learning  dart and sql.</p>
+        <p>hello, this is my personal website. i am boy with passion of programming. i know java (java swing, android development) and i currentl learning  dart and sql.</p>
       </div>
       <div>
         <img src="face.png" style=" width: 800px;
