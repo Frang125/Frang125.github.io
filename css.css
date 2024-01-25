@@ -25,6 +25,7 @@
       font-style: normal;
       color: white;
       font-size: 30px;
+      margin-left: 10px;
     }
    
     .ciao2{
@@ -43,12 +44,7 @@
 
    }
 
-   .acc{
-     margin-left: 1px;
-
-
-
-   }
+   
   
 
 }
