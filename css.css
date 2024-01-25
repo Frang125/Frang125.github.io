@@ -78,7 +78,7 @@
       color: white; 
       font-size: 80px; 
       width: 800px;
-     margin-left:20px;
+     margin-left:100px;
 
 
     }
@@ -87,7 +87,7 @@
     align-items: center; 
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 100px;
-    margin-left: 800px;
+    margin-left: 10px;
 
 
 
