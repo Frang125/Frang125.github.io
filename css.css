@@ -42,6 +42,13 @@
 
 
    }
+
+   .acc{
+     margin-left: 100px;
+
+
+
+   }
   
 
 }
@@ -86,6 +93,7 @@
     align-items: center; 
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 100px;
+    margin-left: 1400;
 
 
 
