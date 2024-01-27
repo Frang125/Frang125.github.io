@@ -7,6 +7,15 @@
 }
 
 @media (min-width:640px){
+   
+
+
+   
+}
+
+
+@media (min-width:768px){
+
    body {
       background-image: url("ss1.png");
       width: 330x;
@@ -50,15 +59,6 @@
   
   
      }
-
-
-
-   
-}
-
-
-@media (min-width:768px){
-
 
 
 
