@@ -1,4 +1,12 @@
 @media (min-width:475px){
+   
+
+
+
+
+}
+
+@media (min-width:640px){
    body {
       background-image: url("ss1.png");
       width: 330x;
@@ -42,14 +50,6 @@
   
   
      }
-
-
-
-
-}
-
-@media (min-width:640px){
-
 
 
 
