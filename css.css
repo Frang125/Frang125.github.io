@@ -74,8 +74,49 @@
 }
 
 @media (min-width:1280px){
-
-
+   body {
+      background-image: url("ss1.png");
+      width: 330x;
+      height: 400px;
+      
+   
+      }
+      span{
+         margin-left: 0px;
+       
+  
+      }
+      .spazio{
+         margin-left: 20px;
+  
+  
+  
+  
+      }
+      .box{
+        width: 380px;
+        height: 400px; 
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
+        color: white;
+        font-size: 30px;
+      }
+     
+      .ciao2{
+          height: 150px;
+          width: 350px;
+  
+  
+  
+      }
+    
+      .bardotext{
+        visibility: hidden;
+  
+  
+  
+  
+     }
 
 
    
