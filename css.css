@@ -1,79 +1,6 @@
-@media only screen and (min-width:475px){
-   body {
-      background-image: url("ss1.png");
-      width: 330x;
-      height: 475px;
-      
-   
-      }
-      span{
-         margin-left: 0px;
-       
-  
-      }
-      .spazio{
-         margin-left: 20px;
-  
-  
-  
-  
-      }
-      .box{
-        width: 380px;
-        height: 400px; 
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        color: white;
-        font-size: 30px;
-      }
-     
-      .ciao2{
-          height: 150px;
-          width: 350px;
-  
-  
-  
-      }
-    
-      .bardotext{
-        visibility: hidden;
-  
-  
-  
-  
-     }
 
 
-
-
-}
-
-@media (min-width:640px){
-
-
-
-
-   
-}
-
-
-@media (min-width:768px){
-
-
-
-
-   
-}
-
-@media (min-width:1024px){
-
-
-
-
-   
-}
-
-@media (min-width:1280px){
+@media only screen and (min-width:1px){
    body {
       background-image: url("ss1.png");
       width: 330x;
@@ -119,15 +46,163 @@
      }
 
 
-   
-}
-
-@media (min-width:1536px){
-
-
-
 
    
 }
+
+@media only screen and (min-width:700px){
+   body{
+      background-image: url("ss1.png");
+      background-repeat: repeat;
+     
+    }
+    p{
+      font-family: "Roboto", sans-serif;
+      
+      font-style: normal;
+
+    }
+    span{
+       margin-left: 40px;
+     
+
+    }
+ 
+    .spazio{
+       margin-left: 1400px;
+
+
+
+
+    }
+    .box{
+      color: white; 
+      font-size: 80px; 
+      width: 800px;
+     
+
+
+    }
+    .acc{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 100px;
+    margin-left: 10px;
+
+
+
+    }
+
+
+    .face{
+
+      width: 800px;
+      height:800px;
+      content: url("face.png");
+
+
+    }
+
+
+ 
+
+    .bardotext{
+       color: white;
+       font-family: "Roboto", sans-serif;
+       font-style: normal;
+       margin-left: 1650px;
+       
+
+
+
+
+    }
+
+
+
+   
+}
+
+
+
+
+
+@media only screen and (min-width:1020px){
+   body{
+      background-image: url("ss1.png");
+      background-repeat: repeat;
+     
+    }
+    p{
+      font-family: "Roboto", sans-serif;
+      
+      font-style: normal;
+
+    }
+    span{
+       margin-left: 40px;
+     
+
+    }
+ 
+    .spazio{
+       margin-left: 1400px;
+
+
+
+
+    }
+    .box{
+      color: white; 
+      font-size: 80px; 
+      width: 800px;
+     
+
+
+    }
+    .acc{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 100px;
+    margin-left: 10px;
+
+
+
+    }
+
+
+    .face{
+
+      width: 800px;
+      height:800px;
+      content: url("face.png");
+
+
+    }
+
+
+ 
+
+    .bardotext{
+       color: white;
+       font-family: "Roboto", sans-serif;
+       font-style: normal;
+       margin-left: 1650px;
+       
+
+
+
+
+    }
+
+
+
+   
+}
+
+
+
 
 
