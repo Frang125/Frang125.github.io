@@ -14,19 +14,19 @@
   
       }
       .spazio{
-         margin-left: 20px;
+         margin-left:500px;
   
   
   
   
       }
       .box{
-        width: 380px;
-        height: 400px; 
+        width: 600px;
+        height: 1500px; 
         font-family: "Roboto", sans-serif;
         font-style: normal;
         color: white;
-        font-size: 30px;
+        font-size: 100px;
       }
      
       .ciao2{
@@ -37,20 +37,25 @@
   
       }
     
-      .bardotext{
-        visibility: hidden;
-  
-  
-  
-  
-     }
+      .pp{
 
+         color: white;
+         font-weight: 400; 
+         font-size: 40px;
+
+
+
+
+
+
+      }
 
 
    
 }
 
-@media only screen and (min-width:700px){
+@media only screen and (min-width:651px){
+   
    body{
       background-image: url("ss1.png");
       background-repeat: repeat;
@@ -69,7 +74,7 @@
     }
  
     .spazio{
-       margin-left: 1400px;
+       margin-left: 1350px;
 
 
 
@@ -78,46 +83,43 @@
     .box{
       color: white; 
       font-size: 80px; 
-      width: 800px;
-     
+      width: 700px;
+      margin-left:100px;
+
+
+    }
+    .ciao2{
+       width: 1840px;
+       height: 200px;
+
 
 
     }
     .acc{
     display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 100px;
-    margin-left: 10px;
-
-
-
+     align-items: center; 
+     grid-template-columns: 1fr 1fr 1fr;
+     column-gap: 100px;
     }
+    .pp{
+
+      color: white;
+      
+      font-size: 20px;
 
 
-    .face{
-
-      width: 800px;
-      height:800px;
-      content: url("face.png");
 
 
-    }
+
+
+   }
+    
+    
 
 
  
 
-    .bardotext{
-       color: white;
-       font-family: "Roboto", sans-serif;
-       font-style: normal;
-       margin-left: 1650px;
-       
 
-
-
-
-    }
 
 
 
@@ -129,73 +131,10 @@
 
 
 @media only screen and (min-width:1020px){
-   body{
-      background-image: url("ss1.png");
-      background-repeat: repeat;
-     
-    }
-    p{
-      font-family: "Roboto", sans-serif;
-      
-      font-style: normal;
-
-    }
-    span{
-       margin-left: 40px;
-     
-
-    }
- 
-    .spazio{
-       margin-left: 1400px;
-
-
-
-
-    }
-    .box{
-      color: white; 
-      font-size: 80px; 
-      width: 800px;
-     
-
-
-    }
-    .acc{
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 100px;
-    margin-left: 10px;
-
-
-
-    }
-
-
-    .face{
-
-      width: 800px;
-      height:800px;
-      content: url("face.png");
-
-
-    }
-
-
+   
  
 
-    .bardotext{
-       color: white;
-       font-family: "Roboto", sans-serif;
-       font-style: normal;
-       margin-left: 1650px;
-       
-
-
-
-
-    }
+    
 
 
 
