@@ -147,8 +147,8 @@
 
       .image{
          margin-left: 40px;
-         width: 300px;
-         height:300px;
+         width: 600px;
+         height:600px;
    
    
    
@@ -195,7 +195,7 @@
    body {
       background-color: blueviolet;
       width: 330x;
-      height: 849px;
+      height: 100px;
       
    
       }
@@ -262,6 +262,9 @@
    body{
       background-image: url("ss1.png");
       background-repeat: repeat;
+      width:100%;
+      margin: 0%;
+      height: 100px;
      
     }
     p{
@@ -277,7 +280,7 @@
     }
  
     .spazio{
-       margin-left: 1350px;
+       margin-left: 1450px;
 
 
 
@@ -285,29 +288,24 @@
     }
     .box{
       color: white; 
-      font-size: 80px; 
+      font-size: 70px; 
       width: 700px;
-      margin-left:100px;
-
-
-    }
-    .ciao2{
-       width: 1840px;
-       height: 200px;
-
-
+      height:60px;
+      margin-left: 50px;
+      
 
     }
+   
     .acc{
-    display: grid;
-     align-items: center; 
-     grid-template-columns: 1fr 1fr 1fr;
-     column-gap: 100px;
+      display: grid;
+      position: center;
+      grid-template-columns: 1fr 1fr 1fr;
+      
     }
+    
     .pp{
 
       color: white;
-      
       font-size: 20px;
 
 
@@ -317,15 +315,29 @@
 
    }
    .image{
-      width: 800px;
-      height:800px;
-
-
+      width: 700px;
+      height:700px;
+      margin-top: 80px;
 
 
 
    } 
-    
+   .ciao2{
+         
+      overflow: scroll;
+      margin-top: 100px;
+      background-color: brown;
+      height: 90px;
+      width: 100%;
+
+    }
+
+   .credits{
+      margin-left: 1750px;
+
+
+
+   } 
 
 
 
