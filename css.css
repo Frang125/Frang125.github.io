@@ -56,6 +56,93 @@
 
 @media only screen and (min-width:651px){
    
+   
+   body {
+      background-color: aqua;
+      width: 330x;
+      height:749 px;
+      
+   
+      }
+
+
+ 
+
+
+
+
+
+   
+}
+@media only screen and (min-width:750px){
+   
+   body {
+      background-color: blueviolet;
+      width: 330x;
+      height: 849px;
+      
+   
+      }
+    
+
+
+ 
+
+
+
+
+
+   
+}
+
+@media only screen and (min-width:850px){
+   
+   body {
+      background-color: navy;
+      width: 330x;
+      height: 949px;
+      
+   
+      }
+    
+
+
+ 
+
+
+
+
+
+   
+}
+
+@media only screen and (min-width:950px){
+   
+   
+   body {
+      background-color: red;
+      width: 330x;
+      height: 1019px;
+      
+   
+      }
+
+
+ 
+
+
+
+
+
+   
+}
+
+
+
+
+@media only screen and (min-width:1020px){
+   
+ 
    body{
       background-image: url("ss1.png");
       background-repeat: repeat;
@@ -114,26 +201,6 @@
 
    }
     
-    
-
-
- 
-
-
-
-
-
-   
-}
-
-
-
-
-
-@media only screen and (min-width:1020px){
-   
- 
-
     
 
 
