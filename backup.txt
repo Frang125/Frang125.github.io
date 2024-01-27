@@ -18,3 +18,128 @@
 
 
     rendere sito web adattabile per vari tipi di dispositivi.
+
+
+
+    mobile: 
+    body {
+    background-image: url("ss1.png");
+    width: 330x;
+    height: 400px;
+    
+ 
+    }
+    span{
+       margin-left: 0px;
+     
+
+    }
+    .spazio{
+       margin-left: 20px;
+
+
+
+
+    }
+    .box{
+      width: 380px;
+      height: 400px; 
+      font-family: "Roboto", sans-serif;
+      font-style: normal;
+      color: white;
+      font-size: 30px;
+    }
+   
+    .ciao2{
+        height: 150px;
+        width: 350px;
+
+
+
+    }
+  
+    .bardotext{
+      visibility: hidden;
+
+
+
+
+   }
+   
+  
+
+area desktop
+@media only screen and (min-width: 651px){
+  body{
+      background-image: url("ss1.png");
+      background-repeat: repeat;
+     
+    }
+    p{
+      font-family: "Roboto", sans-serif;
+      
+      font-style: normal;
+
+    }
+    span{
+       margin-left: 40px;
+     
+
+    }
+ 
+    .spazio{
+       margin-left: 1400px;
+
+
+
+
+    }
+    .box{
+      color: white; 
+      font-size: 80px; 
+      width: 800px;
+     
+
+
+    }
+    .acc{
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 100px;
+    margin-left: 10px;
+
+
+
+    }
+
+
+    .face{
+
+      width: 800px;
+      height:800px;
+      content: url("face.png");
+
+
+    }
+
+
+ 
+
+    .bardotext{
+       color: white;
+       font-family: "Roboto", sans-serif;
+       font-style: normal;
+       margin-left: 1650px;
+       
+
+
+
+
+    }
+    
+
+    
+    
+
+}
