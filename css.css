@@ -1,6 +1,6 @@
 
 
-@media only screen and (min-width:1px){
+@media only screen and (max-width: 650px){
    body {
       background-image: url("ss1.png");
       width: 330x;
