@@ -30,10 +30,10 @@
     }
     .box{
       color: white; 
-      font-size: 70px; 
-      width: 667px;
+      font-size: 35px; 
+      width: 200px;
       
-      margin-left: 50px;
+      margin-left: 15px;
       
 
     }
@@ -46,7 +46,7 @@
     .pp{
 
       color: white;
-      font-size: 35px;
+      font-size: 10px;
 
 
 
@@ -55,10 +55,10 @@
 
    }
    .image{
-      width: 700px;
-    height: 700px;
+      width: 200px;
+    height: 200px;
     
-    margin-left: 100px;
+    margin-left: 20px;
 
 
    } 
