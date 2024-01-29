@@ -4,9 +4,9 @@
    body{
       background-image: url("ss1.png");
       background-repeat: repeat;
-      width:100px;
+      width:200px;
       margin: 0%;
-      height: 66px;
+      height: 60px;
      
     }
     p{
@@ -23,7 +23,7 @@
 
     .spazio{
       
-      margin-left: 10px;
+      margin-left: 9px;
       width: max-content;
 
 
