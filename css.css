@@ -1,257 +1,100 @@
-
-
-@media only screen and (max-width: 650px){
-   body {
+@media only screen and (min-width:375px) and (min-height: 667px){
+   
+ 
+   body{
       background-image: url("ss1.png");
-      width: 380px;
-      height: 1000px;
+      background-repeat: repeat;
+      width:376px;
       margin: 0%;
-   
-      }
-      span{
-         margin-left: 0px;
-       
-  
-      }
-      .spazio{
-         margin-left:40px;
-  
-  
-  
-  
-      }
-      .box{
-        width: 390px;
-        height: 400px; 
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        color: white;
-        font-size: 40px;
-        
-      }
+      height: 66px;
      
-      .ciao2{
-          height: 150px;
-          width: 350px;
-  
-  
-  
-      }
-    
-      .pp{
-
-         color: white;
-         font-weight: 6px; 
-         font-size: 18px;
-
-
-
-
-
-
-      }
-
-      .image{
-         margin-left: 40px;
-         width: 300px;
-         height:300px;
-   
-   
-   
-   
-   
-      } 
-
-
-      .acc{
-         
-         column-gap: 100px;
-         
-        }
-
-
-        .ciao2{
-         
-         overflow: scroll;
-         margin-top: 100px;
-         background-color: brown;
-         height: 90px;
-         width: 390px;
-
-       }
+    }
+    p{
+      font-family: "Roboto", sans-serif;
       
-         
-      .credits{
-         margin-left: 250px; 
-         margin-top: 30px;
-         color: white;
+      font-style: normal;
 
-
-      }
-  
-  
-         
-
-
-   
-}
-
-@media only screen and (min-width:651px){
-   
-   body {
-      background-image: url("ss1.png");
-      width: 650px;
-      height: 1000px;
-      margin: 0%;
-   
-      }
-      
-      .spazio{
-         margin-left:300px;
-  
-  
-  
-  
-      }
-      .box{
-        margin-left: 10px;
-         width: 600px;
-        height: 400px; 
-        font-family: "Roboto", sans-serif;
-        font-style: normal;
-        color: white;
-        font-size: 40px;
-        
-      }
+    }
+    span{
+       margin-left: 1px;
      
-      .ciao2{
-          height: 150px;
-          width: 350px;
-  
-  
-  
-      }
+
+    }
+
+    .spazio{
+      
+      margin-left: 250px;
+      width: max-content;
+
+
+    }
+    .box{
+      color: white; 
+      font-size: 70px; 
+      width: 667px;
+      
+      margin-left: 50px;
+      
+
+    }
+   
+    .acc{
+     
+      height:60px;
+    }
     
-      .pp{
+    .pp{
 
-         color: white;
-         font-weight: 1px; 
-         font-size: 18px;
-
+      color: white;
+      font-size: 35px;
 
 
 
 
 
-      }
 
-      .image{
-         margin-left: 40px;
-         width: 600px;
-         height:600px;
-   
-   
-   
-   
-   
-      } 
-
-
-      .acc{
-         
-         column-gap: 100px;
-         
-        }
-
-
-        .ciao2{
-         
-         overflow: scroll;
-         margin-top: 100px;
-         background-color: brown;
-         height: 90px;
-         width: 675px;
-
-       }
-      
-         
-      .credits{
-         margin-left: 550px; 
-         margin-top: 30px;
-         color: white;
-
-
-      }
-  
-  
-         
-
-
-   
-}
-   
-@media only screen and (min-width:750px){
-   
-   body {
-      background-color: blueviolet;
-      width: 330x;
-      height: 100px;
-      
-   
-      }
+   }
+   .image{
+      width: 700px;
+    height: 700px;
     
+    margin-left: 100px;
 
 
- 
-
-
-
-
-
-   
-}
-
-@media only screen and (min-width:850px){
-   
-   body {
-      background-color: navy;
-      width: 330x;
-      height: 949px;
+   } 
+   .ciao2{
+         
       
-   
-      }
-    
+      margin-top: 1500px;
+      background-color: brown;
+      height: 90px;
+      width: 860.5px;
 
+    }
 
- 
-
-
-
-
-
-   
-}
-
-@media only screen and (min-width:950px){
-   
-   
-   body {
-      background-color: red;
-      width: 330x;
-      height: 1019px;
+   .credits{
       
-   
-      }
+      margin-left: 680px;
+      font-family: "Roboto", sans-serif;
+        font-style: normal;
+      color: white;
+      font-size: 20px;
 
 
- 
-
-
+   } 
 
 
 
    
 }
+
+
+
+
+
+
+
+
 
 
 
@@ -280,7 +123,7 @@
     }
  
     .spazio{
-       margin-left: 1450px;
+       margin-left: 1400px;
 
 
 
@@ -318,13 +161,13 @@
       width: 700px;
       height:700px;
       margin-top: 80px;
-
+      margin-left: 100px;
 
 
    } 
    .ciao2{
          
-      overflow: scroll;
+      
       margin-top: 100px;
       background-color: brown;
       height: 90px;
@@ -333,8 +176,11 @@
     }
 
    .credits{
-      margin-left: 1750px;
-
+      
+      margin-left: 1700px;
+      font-family: "Roboto", sans-serif;
+        font-style: normal;
+      color: white;
 
 
    } 
