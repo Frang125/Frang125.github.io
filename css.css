@@ -4,7 +4,7 @@
    body{
       background-image: url("ss1.png");
       background-repeat: repeat;
-      width:376px;
+      width:100px;
       margin: 0%;
       height: 66px;
      
@@ -23,14 +23,14 @@
 
     .spazio{
       
-      margin-left: 250px;
+      margin-left: 10px;
       width: max-content;
 
 
     }
     .box{
       color: white; 
-      font-size: 35px; 
+      font-size: 34px; 
       width: 200px;
       
       margin-left: 15px;
@@ -41,12 +41,13 @@
     .acc{
      
       height:60px;
+      
     }
     
     .pp{
 
       color: white;
-      font-size: 10px;
+      font-size: 11px;
 
 
 
@@ -65,20 +66,20 @@
    .ciao2{
          
       
-      margin-top: 1500px;
+      margin-top: 800px;
       background-color: brown;
-      height: 90px;
-      width: 860.5px;
+      height: 60px;
+      width: 240px;
 
     }
 
    .credits{
       
-      margin-left: 680px;
+      margin-left: 150px;
       font-family: "Roboto", sans-serif;
         font-style: normal;
       color: white;
-      font-size: 20px;
+      font-size: 10px;
 
 
    } 
