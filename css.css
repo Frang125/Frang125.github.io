@@ -2,9 +2,9 @@
    
  
    body{
-      background-image: url("ss1.png");
-      background-repeat: repeat;
-      width:200px;
+      background-image:url("ss1.png");
+      
+      
       margin: 0%;
       height: 60px;
      
@@ -23,17 +23,17 @@
 
     .spazio{
       
-      margin-left: 9px;
+      margin-left: 80px;
       width: max-content;
 
 
     }
     .box{
       color: white; 
-      font-size: 34px; 
-      width: 200px;
-      
-      margin-left: 10px;
+      font-size: 32px; 
+      width: 300px;
+    
+      margin-left: 20px;
       
 
     }
@@ -47,7 +47,7 @@
     .pp{
 
       color: white;
-      font-size: 11px;
+      font-size: 15px;
 
 
 
@@ -59,23 +59,23 @@
       width: 200px;
     height: 200px;
     
-    margin-left: 20px;
+    margin-left: 90px;
 
 
    } 
    .ciao2{
          
       
-      margin-top: 800px;
+      margin-top: 600px;
       background-color: brown;
       height: 60px;
-      width: 240px;
+      width: 390px;
 
     }
 
    .credits{
       
-      margin-left: 150px;
+      margin-left: 300px;
       font-family: "Roboto", sans-serif;
         font-style: normal;
       color: white;
