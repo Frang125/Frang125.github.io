@@ -89,6 +89,97 @@
    
 }
 
+@media only screen and (max-width:414px) and (max-height: 896px){
+   
+ 
+  body{
+     background-image:url("ss1.png");
+     
+     
+     margin: 0%;
+     height: 60px;
+    
+   }
+   p{
+     font-family: "Roboto", sans-serif;
+     
+     font-style: normal;
+
+   }
+   span{
+      margin-left: 1px;
+    
+
+   }
+
+   .spazio{
+     
+     margin-left: 80px;
+     width: max-content;
+
+
+   }
+   .box{
+     color: white; 
+     font-size: 32px; 
+     width: 300px;
+   
+     margin-left: 20px;
+     
+
+   }
+  
+   .acc{
+    
+     height:60px;
+     
+   }
+   
+   .pp{
+
+     color: white;
+     font-size: 15px;
+
+
+
+
+
+
+  }
+  .image{
+     width: 200px;
+   height: 200px;
+   
+   margin-left: 90px;
+
+
+  } 
+  .ciao2{
+        
+     
+     margin-top: 694px;
+     background-color: brown;
+     height: 60px;
+     width: 414px;
+
+   }
+
+  .credits{
+     
+     margin-left: 280px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 11px;
+
+
+  } 
+
+
+
+  
+}
+
 
 @media only screen and (min-width:1020px){
    
