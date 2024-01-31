@@ -1015,6 +1015,189 @@
 }
 
 
+@media only screen and (width:540px) and (height:720px){
+   
+ 
+  body{
+     background-image: url("ss1.png");
+     background-repeat: repeat;
+     width:100px;
+     margin: 0%;
+     height: 100px;
+    
+   }
+   p{
+     font-family: "Roboto", sans-serif;
+     
+     font-style: normal;
+
+   }
+   span{
+      margin-left: 40px;
+    
+
+   }
+
+   .spazio{
+      margin-left: 115px;
+      width: max-content;
+
+
+
+
+   }
+   .box{
+     color: white; 
+     font-size: 40px; 
+     width: 400px;
+     height:70px;
+     margin-left: 50px;
+     
+
+   }
+  
+   .acc{
+     
+     
+   }
+   
+   .pp{
+
+     color: white;
+     font-size: 17px;
+
+
+
+
+
+
+  }
+  .image{
+     width: 400px;
+     height:400px;
+     margin-top: 300px;
+     margin-left: 70px;
+
+
+  } 
+  .ciao2{
+        
+     
+     margin-top: 200px;
+     background-color: brown;
+     height: 100px;
+     width: 540px;
+
+   }
+
+  .credits{
+     
+     margin-left: 380px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 18px;
+
+
+  } 
+
+
+
+  
+}
+
+
+@media only screen and (width:280px) and (height:653px){
+   
+ 
+  body{
+     background-image: url("ss1.png");
+     background-repeat: repeat;
+     width:100px;
+     margin: 0%;
+     height: 100px;
+    
+   }
+   p{
+     font-family: "Roboto", sans-serif;
+     
+     font-style: normal;
+
+   }
+   span{
+      margin-left: 1px;
+    
+
+   }
+
+   .spazio{
+      
+      width: 1000px;
+
+
+
+
+   }
+   .box{
+     color: white; 
+     font-size: 40px; 
+     width: 400px;
+     height:70px;
+     margin-left: 50px;
+     
+
+   }
+  
+   .acc{
+     
+     
+   }
+   
+   .pp{
+
+     color: white;
+     font-size: 15px;
+
+
+
+
+
+
+  }
+  .image{
+     width: 400px;
+     height:400px;
+     margin-top: 300px;
+     margin-left: 70px;
+
+
+  } 
+  .ciao2{
+        
+     
+     margin-top: 200px;
+     background-color: brown;
+     height: 100px;
+     width: 540px;
+
+   }
+
+  .credits{
+     
+     margin-left: 380px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 18px;
+
+
+  } 
+
+
+
+  
+}
+
 
 
 
