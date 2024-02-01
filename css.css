@@ -67,7 +67,7 @@
          
       
       margin-top: 600px;
-      background-color: brown;
+      
       height: 60px;
       width: 390px;
 
@@ -89,7 +89,7 @@
    
 }
 
-@media only screen and (min-width:414px) and (height: 896px){
+@media only screen and (width:414px) and (height: 896px){
    
  
   body{
@@ -181,7 +181,7 @@
 } 
 
 
-@media only screen and (min-width:390px) and (height: 844px){
+@media only screen and (width:390px) and (height: 844px){
    
  
   body{
@@ -274,7 +274,7 @@
 
 
 
-@media only screen and (min-width:430px) and (height: 932px){
+@media only screen and (width:430px) and (height: 932px){
    
  
   body{
@@ -366,7 +366,7 @@
   
 }
 
-@media only screen and (min-width:412px) and (height: 915px){
+@media only screen and (width:412px) and (height: 915px){
    
  
   body{
@@ -458,7 +458,7 @@
   
 }
 
-@media only screen and (min-width:360px) and (height: 740px){
+@media only screen and (width:360px) and (height: 740px){
    
  
   body{
@@ -550,7 +550,7 @@
   
 }
 
-@media only screen and (min-width:412px) and (height: 915px){
+@media only screen and (width:412px) and (height: 915px){
    
  
   body{
@@ -641,7 +641,7 @@
 
   
 }
-@media only screen and (min-width:768px) and (height: 1024px){
+@media only screen and (width:768px) and (height: 1024px){
    
  
   body{
@@ -713,7 +713,7 @@
   .ciao2{
         
      
-     margin-top: 265px;
+     margin-top: 855px;
      background-color: brown;
      height: 60px;
      width: 768px;
@@ -738,7 +738,7 @@
   
 }
 
-@media only screen and (min-width:820px) and (height: 1180px){
+@media only screen and (width:820px) and (height: 1180px){
    
  
   body{
@@ -764,7 +764,7 @@
 
    .spazio{
      
-     margin-left: 475px;
+     margin-left: 460px;
      width: max-content;
 
 
@@ -788,7 +788,7 @@
    .pp{
 
      color: white;
-     font-size: 15px;
+     font-size: 19px;
 
 
 
@@ -807,7 +807,7 @@
   .ciao2{
         
      
-     margin-top: 100px;
+     margin-top: 1100px;
      background-color: brown;
      height: 60px;
      width: 100%;
@@ -833,7 +833,7 @@
 }
 
 
-@media only screen and (min-width:1024px) and (height:1366px){
+@media only screen and (width:1024px) and (height:1366px){
    
  
   body{
@@ -900,7 +900,7 @@
   .ciao2{
         
      
-     margin-top: 200px;
+     margin-top: 1600px;
      background-color: brown;
      height: 90px;
      width: 1008px;
@@ -924,7 +924,7 @@
 }
 
 
-@media only screen and (min-width:912px) and (height:1368px){
+@media only screen and (width:912px) and (height:1368px){
    
  
   body{
@@ -932,7 +932,7 @@
      background-repeat: repeat;
      width:900px;
      margin: 0%;
-     height: 100px;
+     height: 500px;
     
    }
    p{
@@ -991,7 +991,7 @@
   .ciao2{
         
      
-     margin-top: 200px;
+     margin-top: 1700px;
      background-color: brown;
      height: 100px;
      width: 914px;
@@ -1015,7 +1015,7 @@
 }
 
 
-@media only screen and (min-width:540px) and (height:720px){
+@media only screen and (width:540px) and (height:720px){
    
  
   body{
@@ -1107,7 +1107,7 @@
 }
 
 
-@media only screen and (min-width:280px) and (height:653px){
+@media only screen and (width:280px) and (height:653px){
    
  
   body{
@@ -1199,7 +1199,7 @@
   
 }
 
-@media only screen and (min-width:412px) and (height:914px){
+@media only screen and (width:412px) and (height:914px){
    
  
   body{
@@ -1363,7 +1363,7 @@
     .ciao2{
           
        
-       margin-top: 120px;
+       margin-top: 1000px;
        background-color: brown;
        height: 90px;
        width: 100%;
@@ -1376,6 +1376,7 @@
        font-family: "Roboto", sans-serif;
          font-style: normal;
        color: white;
+       font-size: 15px;
   
   
     } 
@@ -1387,6 +1388,8 @@
    
   
 }
+
+
 
 
 
