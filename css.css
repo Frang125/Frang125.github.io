@@ -1389,6 +1389,16 @@
 }
 
 
+@media only screen  and (width:1080px) and (height:2400px) {
+  body{
+    background-color: red;
+
+
+
+  }
+}
+
+
 
   
 
