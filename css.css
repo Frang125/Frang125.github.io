@@ -1,4 +1,4 @@
-@media only screen and (width:375px) and (height: 667px){
+@media only screen and (min-width:375px) and (min-height: 667px){
    
  
    body{
@@ -89,7 +89,7 @@
    
 }
 
-@media only screen and (width:414px) and (height: 896px){
+@media only screen and (min-width:414px) and (height: 896px){
    
  
   body{
@@ -181,7 +181,7 @@
 } 
 
 
-@media only screen and (width:390px) and (height: 844px){
+@media only screen and (min-width:390px) and (height: 844px){
    
  
   body{
@@ -274,7 +274,7 @@
 
 
 
-@media only screen and (width:430px) and (height: 932px){
+@media only screen and (min-width:430px) and (height: 932px){
    
  
   body{
@@ -366,7 +366,7 @@
   
 }
 
-@media only screen and (width:412px) and (height: 915px){
+@media only screen and (min-width:412px) and (height: 915px){
    
  
   body{
@@ -458,7 +458,7 @@
   
 }
 
-@media only screen and (width:360px) and (height: 740px){
+@media only screen and (min-width:360px) and (height: 740px){
    
  
   body{
@@ -550,7 +550,7 @@
   
 }
 
-@media only screen and (width:412px) and (height: 915px){
+@media only screen and (min-width:412px) and (height: 915px){
    
  
   body{
@@ -641,7 +641,7 @@
 
   
 }
-@media only screen and (width:768px) and (height: 1024px){
+@media only screen and (min-width:768px) and (height: 1024px){
    
  
   body{
@@ -738,7 +738,7 @@
   
 }
 
-@media only screen and (width:820px) and (height: 1180px){
+@media only screen and (min-width:820px) and (height: 1180px){
    
  
   body{
@@ -833,7 +833,7 @@
 }
 
 
-@media only screen and (width:1024px) and (height:1366px){
+@media only screen and (min-width:1024px) and (height:1366px){
    
  
   body{
@@ -924,7 +924,7 @@
 }
 
 
-@media only screen and (width:912px) and (height:1368px){
+@media only screen and (min-width:912px) and (height:1368px){
    
  
   body{
@@ -1015,7 +1015,7 @@
 }
 
 
-@media only screen and (width:540px) and (height:720px){
+@media only screen and (min-width:540px) and (height:720px){
    
  
   body{
@@ -1107,7 +1107,7 @@
 }
 
 
-@media only screen and (width:280px) and (height:653px){
+@media only screen and (min-width:280px) and (height:653px){
    
  
   body{
@@ -1199,7 +1199,7 @@
   
 }
 
-@media only screen and (width:412px) and (height:914px){
+@media only screen and (min-width:412px) and (height:914px){
    
  
   body{
@@ -1389,14 +1389,6 @@
 }
 
 
-@media only screen  and (width:2400px) and (height:1080px) {
-  body{
-    background-color: red;
-    height: auto;
-    width: auto;
-
-  }
-}
 
 
 
