@@ -1166,8 +1166,8 @@
 
   }
   .image{
-     width: 600px;
-     height:600px;
+     width: 700px;
+     height:700px;
      margin-top: 900px;
      margin-left: 200px;
 
@@ -1176,7 +1176,7 @@
   .ciao2{
         
      
-     margin-top: 590px;
+     margin-top: 500px;
      background-color: brown;
      height: 142px;
      width: 1110px;
@@ -1185,11 +1185,11 @@
 
   .credits{
      
-     margin-left: 100px;
+     margin-left: 850px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
-     font-size: 18px;
+     font-size: 30px;
 
 
   } 
