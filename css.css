@@ -1291,6 +1291,102 @@
   
 }
 
+@media only screen and (min-width:1661px) and (min-height:958px){
+   
+ 
+ 
+   
+ 
+    body{
+       background-image: url("ss1.png");
+       background-repeat: repeat;
+       width:100%;
+       margin: 0%;
+       height: 50px;
+      
+     }
+     p{
+       font-family: "Roboto", sans-serif;
+       
+       font-style: normal;
+  
+     }
+     span{
+        margin-left: 40px;
+      
+  
+     }
+  
+     .spazio{
+        margin-left: 1400px;
+  
+  
+  
+  
+     }
+     .box{
+       color: white; 
+       font-size: 70px; 
+       width: 700px;
+       height:60px;
+       margin-left: 50px;
+       
+  
+     }
+    
+     .acc{
+       display: grid;
+       position: center;
+       grid-template-columns: 1fr 1fr 1fr;
+       
+     }
+     
+     .pp{
+  
+       color: white;
+       font-size: 20px;
+  
+  
+  
+  
+  
+  
+    }
+    .image{
+       width: 700px;
+       height:700px;
+       margin-top: 80px;
+       margin-left: 100px;
+  
+  
+    } 
+    .ciao2{
+          
+       
+       margin-top: 120px;
+       background-color: brown;
+       height: 90px;
+       width: 100%;
+  
+     }
+  
+    .credits{
+       
+       margin-left: 1700px;
+       font-family: "Roboto", sans-serif;
+         font-style: normal;
+       color: white;
+  
+  
+    } 
+  
+  
+  
+    
+  
+   
+  
+}
 
 
 
