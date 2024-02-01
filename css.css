@@ -1112,9 +1112,9 @@
  
   body{
      background-image: url("ss1.png");
-     background-repeat: repeat;
-     width:100px;
-     margin: 0%;
+     
+     margin:0%;
+     width: auto;
      height: 100px;
     
    }
@@ -1125,25 +1125,26 @@
 
    }
    span{
-      margin-left: 1px;
+      margin-left: 25px;
     
 
    }
 
    .spazio{
+      margin-left: 250px;
+      width: 850px;
       
-      width: 1000px;
-
 
 
 
    }
    .box{
-     color: white; 
-     font-size: 40px; 
-     width: 400px;
+   
+    color: white; 
+     font-size: 75px; 
+     width: 600px;
      height:70px;
-     margin-left: 50px;
+     margin-left: 30px;
      
 
    }
@@ -1156,7 +1157,7 @@
    .pp{
 
      color: white;
-     font-size: 15px;
+     font-size: 45px;
 
 
 
@@ -1165,26 +1166,26 @@
 
   }
   .image{
-     width: 400px;
-     height:400px;
-     margin-top: 300px;
-     margin-left: 70px;
+     width: 600px;
+     height:600px;
+     margin-top: 900px;
+     margin-left: 200px;
 
 
   } 
   .ciao2{
         
      
-     margin-top: 200px;
+     margin-top: 590px;
      background-color: brown;
-     height: 100px;
-     width: 540px;
+     height: 142px;
+     width: 1110px;
 
    }
 
   .credits{
      
-     margin-left: 380px;
+     margin-left: 100px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
