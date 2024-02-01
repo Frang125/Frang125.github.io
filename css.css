@@ -1389,11 +1389,11 @@
 }
 
 
-@media only screen  and (width:1080px) and (height:2400px) {
+@media only screen  and (width:2400px) and (height:1080px) {
   body{
     background-color: red;
-
-
+    height: auto;
+    width: auto;
 
   }
 }
