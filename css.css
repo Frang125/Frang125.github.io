@@ -2,7 +2,7 @@
    
  
    body{
-      background-image:url("ss1.png");
+      background-color:#535cd6;
       
       
       margin: 0%;
@@ -74,7 +74,7 @@
     }
 
    .credits{
-      
+      background-color: red;
       margin-left: 280px;
       font-family: "Roboto", sans-serif;
         font-style: normal;
