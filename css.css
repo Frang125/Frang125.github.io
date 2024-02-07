@@ -1577,13 +1577,15 @@ body{
 
    }
    span{
-      margin-left: 40px;
+      margin-left: 10px;
     
 
    }
 
    .spazio{
-      margin-left: 1400px;
+   
+      margin-left: 1450px;
+    width: 400px;
 
 
 
@@ -1631,13 +1633,13 @@ body{
      margin-top: 800px;
      background-color: brown;
      height: 90px;
-     width: 1897px;
+     width: 1857px;
 
    }
 
   .credits{
      
-     margin-left: 1760px;
+     margin-left: 1700px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
