@@ -1471,7 +1471,7 @@ body{
      background-image: url("ss1.png");
      
      margin:0%;
-     width: 410px;
+     width: 400px;
      height: 90px;
     
    }
@@ -1488,7 +1488,8 @@ body{
    }
 
    .spazio{
-      margin-left: 128px;
+   
+    margin-left: 130px;
       width: 282px;
       
 
@@ -1542,7 +1543,7 @@ body{
 
   .credits{
      
-     margin-left: 330px;
+     margin-left: 300px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
