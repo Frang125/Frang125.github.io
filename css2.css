@@ -62,12 +62,7 @@
   
   }
    
-  .button1{
-    Border: none !important; background: none !important;
-    
   
-  
-  }
 
   a{
     text-decoration: none;
@@ -298,9 +293,10 @@
    }
   
    .spazio{
-      margin-left: 1400px;
-      border-top: 100px; 
-      padding-top: 25px;
+    
+    width: 400px;
+    margin-left: 1400px;
+    padding-top: 10px;
   
   
   
@@ -426,6 +422,9 @@
 
 
   }
+
+  
+
 
 
 }
