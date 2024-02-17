@@ -4,7 +4,7 @@
   
     width:375px;
     margin: 0%;
-    height: 50px;
+    height: 500px;
    
   }
   
@@ -15,14 +15,20 @@
    }
   
    .spazio{
-      margin-left: 1px;
-      border-top: 100px; 
+      margin-left: 50px;
+     
       padding-top: 25px;
   
   
   
   
    }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
   
    .reso{
   height: 100px;
@@ -53,7 +59,7 @@
   .pp{
     
      color: white;
-     font-size: 10px;
+     font-size: 14px;
   
   
   
@@ -72,35 +78,48 @@
 
   .box{
     display: grid;
-    position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
+    margin-right: 5000px;
+     padding-top: 50px;
   
   }
+
+
  
   .imgc{
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 500px;
     object-fit: scale-down;
     margin-left: 20px;
 
 
 
   }
+  .dive{
+      height: 500; width: 300px; 
+    
+  
+  }
+  .l{
 
-
-  .calc{
-    font-size: 70px; 
-    font-family: Roboto; 
-    color: white; 
-    margin-left: 100px; 
+  margin-left: 60px;
 
 
   }
 
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
   .calcd{
-    font-size: 50px; 
-    margin-left: 100px; 
-    width: 750px; 
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
     font-family:   Roboto; 
     color: white; 
 
@@ -110,7 +129,7 @@
   .box3{
     display: grid;
     position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 1px;
+     width: 1px;
 
 
 
@@ -119,8 +138,8 @@
 
   .av{
     font-size: 20px; 
-    margin-left: 100px; 
-    width: 115px; 
+    margin-left: 50px; 
+    width: 115px;
     font-family:   Roboto; 
     color: white;
 
@@ -133,7 +152,7 @@
   .ba{
     height: 240; 
     width: 240px; 
-
+    margin-left: 30px;
 
 
 
@@ -424,7 +443,11 @@
   }
 
   
+  .dive{
+    height: 500; width: 400px; margin-left: 300px;
 
+
+ }
 
 
 }
