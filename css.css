@@ -4,7 +4,7 @@
    body{
       background-color:#535cd6;
       
-      width: 290px;
+      width: 375px;
       margin: 0%;
       height: 60px;
      
@@ -22,11 +22,11 @@
     }
 
     .spazio{
-      
+     
       height: 50px;
 
-      margin-left: 70px;
-      width: 100%;
+      margin-left: 80px;
+      width: 300px;
 
 
     }
@@ -71,7 +71,7 @@
       margin-top: 600px;
       background-color: brown;
       height: 60px;
-      width: 384px;
+      width: 380px;
 
     }
 

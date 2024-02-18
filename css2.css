@@ -15,10 +15,10 @@
    }
   
    .spazio{
-      margin-left: 50px;
-     
+      margin-left: 60px;
+      
       padding-top: 25px;
-  
+      width: 311px;
   
   
   
@@ -40,18 +40,18 @@
          
     margin-top: 300px;
      background-color: brown;
-     height: 90px;
+     height: 60px;
      width: 100%;
   
    }
   
    .credits{
          
-     margin-left: 1700px;
+     margin-left: 280px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
-     font-size: 15px;
+     font-size: 11px;
   
   
   } 
@@ -59,7 +59,7 @@
   .pp{
     
      color: white;
-     font-size: 14px;
+     font-size: 15px;
   
   
   
