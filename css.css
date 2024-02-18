@@ -1,100 +1,8 @@
-@media only screen and (min-width:375px) and (max-width:411px){
-   
- 
-   body{
-      background-color:#535cd6;
-      
-      width: 375px;
-      margin: 0%;
-      height: 60px;
-     
-    }
-    p{
-      font-family: "Roboto", sans-serif;
-      
-      font-style: normal;
-
-    }
-    span{
-       margin-left: 1px;
-     
-
-    }
-
-    .spazio{
-     
-      height: 50px;
-
-      margin-left: 80px;
-      width: 300px;
-
-
-    }
-    .box{
-      color: white; 
-      font-size: 32px; 
-      width: 300px;
-    
-      margin-left: 20px;
-      
-
-    }
-   
-    .acc{
-     
-      height:60px;
-      
-    }
-    
-    .pp{
-
-      color: white;
-      font-size: 15px;
-
-
-
-
-
-
-   }
-   .image{
-      width: 200px;
-    height: 200px;
-    
-    margin-left: 90px;
-
-
-   } 
-   .ciao2{
-         
-      
-      margin-top: 600px;
-      background-color: brown;
-      height: 60px;
-      width: 380px;
-
-    }
-
-   .credits{
-      
-      margin-left: 260px;
-      font-family: "Roboto", sans-serif;
-        font-style: normal;
-      color: white;
-      font-size: 11px;
-
-
-   } 
-
-
-
-   
-}
 
     
 
 
-   @media only screen and (min-width:375px) and (max-width:411px) and (width:667px){
+   @media only screen and (min-width:375px) and (max-width:411px) and (height:667px){
    
  
     body{
@@ -119,10 +27,10 @@
  
      .spazio{
        
-       height: 50px;
+       height: 60px;
  
        margin-left: 60px;
-       width: 100%;
+       width: 311px;
  
  
      }
