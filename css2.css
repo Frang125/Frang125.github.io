@@ -1682,7 +1682,7 @@
   
    
     margin: 0%;
-    height: 50px;
+    height: 40px;
    
   }
   
@@ -1693,10 +1693,10 @@
    }
   
    .spazio{
-      margin-left: 451px;
-      
+      margin-left: 400px;
+     
       padding-top: 10px;
-      width: 570px;
+      width: 500px;
   
   
   
@@ -1716,16 +1716,16 @@
    .ciao2{
             
          
-    margin-top: 563px;
+    margin-top: 403px;
      background-color: brown;
-     height: 80px;
-     width: 1024px;
+     height: 85px;
+     width: 915px;
   
    }
   
    .credits{
          
-     margin-left: 840px;
+     margin-left: 750px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
@@ -1737,7 +1737,7 @@
   .pp{
     
      color: white;
-     font-size: 30px;
+     font-size: 25px;
     
   
   
@@ -1758,46 +1758,42 @@
     display: grid;
     margin-right: 5000px;
      padding-top: 30px;
-     margin-left: 50px;
+     margin-left: 150px;
   
   }
 
 
  
   .imgc{
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 900px;
     object-fit: scale-down;
-    margin-left: 20px;
+    margin-left: 10px;
 
 
 
   }
   .dive{
-      height: 500; width: 360px; 
+      
+      width: 600px; 
     
   
   }
-  .l{
-
-  margin-left: 60px;
-
-
-  }
+ 
 
   .calc{
     font-size: 60px; 
     font-family: Roboto; 
     color: white; 
-    margin-left: 50px; 
+    margin-left: 90px; 
     padding-top: 20px;
 
   }
 
   .calcd{
     font-size: 40px; 
-    margin-left: 55px; 
-    width: 400px;
+    margin-left: 90px; 
+    width: 600px;
     height: 100px; 
     font-family:   Roboto; 
     color: white; 
@@ -1817,7 +1813,7 @@
 
   .av{
     font-size: 25px; 
-    margin-left: 50px; 
+    margin-left: 90px; 
     width: 150px;
     font-family:   Roboto; 
     color: white;
