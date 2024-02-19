@@ -840,7 +840,164 @@
 
 @media only screen and (width:360px) and (height: 740px){
   
+  body{
+    background-color: #535cd6;
+  
+    width:375px;
+    margin: 0%;
+    height: 800px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 63px;
+  
+      padding-top: 10px;
+      width: 344px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 200px;
+     background-color: brown;
+     height: 60px;
+     width: 411px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 280px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 14px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 17px;
+  
+  
+  
+  
+  
+  
+  }
+   
+  
 
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    display: grid;
+    margin-right: 5000px;
+     padding-top: 30px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 300px;
+    height: 500px;
+    object-fit: scale-down;
+    margin-left: 50px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+     width: 1px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 20px; 
+    margin-left: 50px; 
+    width: 115px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 240px; 
+    margin-left: 30px;
+   
+
+
+  }
 
 
 
@@ -849,7 +1006,164 @@
 
 @media only screen and (width:412px) and (height: 915px){
   
+  body{
+    background-color: #535cd6;
+  
+    width:375px;
+    margin: 0%;
+    height: 800px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 63px;
+  
+      padding-top: 10px;
+      width: 344px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 200px;
+     background-color: brown;
+     height: 60px;
+     width: 415px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 280px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 14px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 17px;
+  
+  
+  
+  
+  
+  
+  }
+   
+  
 
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    display: grid;
+    margin-right: 5000px;
+     padding-top: 30px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 300px;
+    height: 500px;
+    object-fit: scale-down;
+    margin-left: 50px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+     width: 1px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 20px; 
+    margin-left: 50px; 
+    width: 115px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 240px; 
+    margin-left: 30px;
+   
+
+
+  }
  
 
 
@@ -858,7 +1172,165 @@
 }
 @media only screen and (width:768px) and (height: 1024px){
   
+  body{
+    background-color: #535cd6;
+  
+   
+    margin: 0%;
+    height: 50px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 300px;
+   
+      padding-top: 10px;
+      width: 470px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 355px;
+     background-color: brown;
+     height: 60px;
+     width: 770px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 645px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 14px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 24px;
+  
+  
+  
+  
+  
+  
+  }
+   
+  
 
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 300px;
+    height: 500px;
+    object-fit: scale-down;
+    margin-left: 50px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 20px; 
+    margin-left: 50px; 
+    width: 115px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 230px; 
+    margin-left: 10px;
+   
+
+
+  }
 
 
 
@@ -868,7 +1340,165 @@
 
 @media only screen and (width:820px) and (height: 1180px){
   
+  body{
+    background-color: #535cd6;
+  
+   
+    margin: 0%;
+    height: 50px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 350px;
+      
+      padding-top: 10px;
+      width: 470px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 505px;
+     background-color: brown;
+     height: 60px;
+     width: 820px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 680px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 14px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 24px;
+  
+  
+  
+  
+  
+  
+  }
+   
+  
 
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 300px;
+    height: 500px;
+    object-fit: scale-down;
+    margin-left: 50px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 20px; 
+    margin-left: 50px; 
+    width: 115px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 230px; 
+    margin-left: 10px;
+   
+
+
+  }
  
 
 
@@ -879,7 +1509,165 @@
 
 @media only screen and (width:1024px) and (height:1366px){
   
+  body{
+    background-color: #535cd6;
+  
+   
+    margin: 0%;
+    height: 50px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 451px;
+      
+      padding-top: 10px;
+      width: 570px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 563px;
+     background-color: brown;
+     height: 80px;
+     width: 1024px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 840px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 20px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 30px;
+    
+  
+  
+  
+  
+  
+  }
+   
+  
 
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 5px; margin-top: 50px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 360px;
+    height: 600px;
+    object-fit: scale-down;
+    margin-left: 20px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 60px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 40px; 
+    margin-left: 55px; 
+    width: 400px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 25px; 
+    margin-left: 50px; 
+    width: 150px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 230px; 
+    margin-left: 10px;
+   
+
+
+  }
  
 
 
@@ -889,7 +1677,165 @@
 
 
 @media only screen and (width:912px) and (height:1368px){
+  body{
+    background-color: #535cd6;
   
+   
+    margin: 0%;
+    height: 50px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 451px;
+      
+      padding-top: 10px;
+      width: 570px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+    margin-top: 563px;
+     background-color: brown;
+     height: 80px;
+     width: 1024px;
+  
+   }
+  
+   .credits{
+         
+     margin-left: 840px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 20px;
+  
+  
+  } 
+  
+  .pp{
+    
+     color: white;
+     font-size: 30px;
+    
+  
+  
+  
+  
+  
+  }
+   
+  
+
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    display: grid;
+    margin-right: 5000px;
+     padding-top: 30px;
+     margin-left: 50px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 800px;
+    height: 800px;
+    object-fit: scale-down;
+    margin-left: 20px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 60px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 40px; 
+    margin-left: 55px; 
+    width: 400px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 25px; 
+    margin-left: 50px; 
+    width: 150px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 230px; 
+    margin-left: 10px;
+   
+
+
+  }
 
 
 
