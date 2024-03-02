@@ -12,7 +12,7 @@
   }
   
     span{
-      margin-left: 40px;
+      margin-left: 20px;
     
   
    }
@@ -41,25 +41,29 @@
    .ciao2{
             
          
-    margin-top: 300px;
      background-color: brown;
      height: 60px;
      width: 100%;
   
    }
   
-   .credits{
-         
-     margin-left: 280px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 11px;
   
-  
-  } 
-  
-  .pp{
+
+.credits{
+
+
+margin-left: 95px;
+font-family: "Roboto", sans-serif;
+  font-style: normal;
+color: white;
+font-size: 12px;
+
+
+
+} 
+
+
+.pp{
     
      color: white;
      font-size: 15px;
@@ -73,22 +77,23 @@
    
   
 
-  a{
+a{
     text-decoration: none;
 
 
   }
 
-  .box{
+.box{
     display: grid;
     margin-right: 5000px;
      padding-top: 50px;
+     padding-bottom: 100px;
   
   }
 
 
  
-  .imgc{
+.imgc{
     width: 300px;
     height: 500px;
     object-fit: scale-down;
@@ -97,19 +102,19 @@
 
 
   }
-  .dive{
+.dive{
       height: 500; width: 300px; 
     
   
   }
-  .l{
+.l{
 
   margin-left: 60px;
 
 
   }
 
-  .calc{
+.calc{
     font-size: 40px; 
     font-family: Roboto; 
     color: white; 
@@ -118,7 +123,7 @@
 
   }
 
-  .calcd{
+.calcd{
     font-size: 30px; 
     margin-left: 55px; 
     width: 300px;
@@ -129,7 +134,7 @@
 
   }
 
-  .box3{
+.box3{
     display: grid;
     position: center;
      width: 1px;
@@ -139,7 +144,7 @@
   }
 
 
-  .av{
+.av{
     font-size: 20px; 
     margin-left: 50px; 
     width: 115px;
@@ -152,7 +157,7 @@
 
   }
   
-  .ba{
+.ba{
     height: 240; 
     width: 240px; 
     margin-left: 30px;
@@ -160,6 +165,57 @@
 
 
   }
+.credits{
+
+
+    margin-left: 95px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    } 
+    
+     
+  .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    margin-left: 9px;
+    
+    
+    
+    } 
+    
+  .sube3{
+    
+    margin-left: 7px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    
+    } 
+  .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
+
+
  
  
 
@@ -177,14 +233,14 @@
   }
   
     span{
-      margin-left: 40px;
+      margin-left: 5px;
     
   
    }
   
    .spazio{
-      margin-left: 60px;
-      
+      margin-left: 100px;
+     
       padding-top: 10px;
       width: 311px;
   
@@ -203,10 +259,112 @@
   width: 100px;
    }
   
+   .pp{
+    
+    color: white;
+    font-size: 15px;
+ 
+ 
+ 
+ 
+ 
+ 
+ }
+  
+ 
+
+ a{
+   text-decoration: none;
+
+
+ }
+
+ .box{
+   display: grid;
+   margin-right: 5000px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+ }
+
+
+
+ .imgc{
+   width: 300px;
+   height: 500px;
+   object-fit: scale-down;
+   margin-left: 50px;
+
+
+
+ }
+ .dive{
+     height: 500; width: 360px; 
+   
+ 
+ }
+ .l{
+
+ margin-left: 60px;
+
+
+ }
+
+ .calc{
+   font-size: 40px; 
+   font-family: Roboto; 
+   color: white; 
+   margin-left: 50px; 
+   padding-top: 20px;
+
+ }
+
+ .calcd{
+   font-size: 30px; 
+   margin-left: 55px; 
+   width: 300px;
+   height: 100px; 
+   font-family:   Roboto; 
+   color: white; 
+
+
+ }
+
+ .box3{
+   display: grid;
+   position: center;
+    width: 1px;
+
+
+
+ }
+
+
+ .av{
+   font-size: 20px; 
+   margin-left: 50px; 
+   width: 115px;
+   font-family:   Roboto; 
+   color: white;
+
+
+
+
+
+ }
+ 
+ .ba{
+   height: 240; 
+   width: 240px; 
+   margin-left: 30px;
+  
+
+
+ }
+   
    .ciao2{
             
          
-    margin-top: 200px;
+    
      background-color: brown;
      height: 60px;
      width: 414px;
@@ -214,117 +372,56 @@
    }
   
    .credits{
-         
-     margin-left: 300px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 11px;
-  
-  
-  } 
-  
-  .pp{
-    
-     color: white;
-     font-size: 15px;
-  
-  
-  
-  
-  
-  
-  }
-   
-  
-
-  a{
-    text-decoration: none;
 
 
-  }
-
-  .box{
-    display: grid;
-    margin-right: 5000px;
-     padding-top: 50px;
-  
-  }
-
-
- 
-  .imgc{
-    width: 300px;
-    height: 500px;
-    object-fit: scale-down;
-    margin-left: 50px;
-
-
-
-  }
-  .dive{
-      height: 500; width: 360px; 
-    
-  
-  }
-  .l{
-
-  margin-left: 60px;
-
-
-  }
-
-  .calc{
-    font-size: 40px; 
-    font-family: Roboto; 
-    color: white; 
-    margin-left: 50px; 
-    padding-top: 20px;
-
-  }
-
-  .calcd{
-    font-size: 30px; 
-    margin-left: 55px; 
-    width: 300px;
-    height: 100px; 
-    font-family:   Roboto; 
-    color: white; 
-
-
-  }
-
-  .box3{
-    display: grid;
-    position: center;
-     width: 1px;
-
-
-
-  }
-
-
-  .av{
-    font-size: 20px; 
-    margin-left: 50px; 
-    width: 115px;
-    font-family:   Roboto; 
+    margin-left: 130px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
     color: white;
-
-
-
-
-
-  }
+    font-size: 12px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    margin-left: 10px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
   
-  .ba{
-    height: 240; 
-    width: 240px; 
-    margin-left: 30px;
-   
-
-
-  }
+  
  
  
 
@@ -377,23 +474,14 @@
    .ciao2{
             
          
-    margin-top: 200px;
+ 
      background-color: brown;
      height: 60px;
-     width: 414px;
+     width: 394px;
   
    }
   
-   .credits{
-         
-     margin-left: 300px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 11px;
-  
-  
-  } 
+
   
   .pp{
     
@@ -419,7 +507,7 @@
     display: grid;
     margin-right: 5000px;
      padding-top: 30px;
-  
+     padding-bottom: 200px;
   }
 
 
@@ -496,6 +584,56 @@
 
 
   }
+
+  .credits{
+
+
+    margin-left: 100px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    margin-left: 10px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
  
 
@@ -545,23 +683,14 @@
    .ciao2{
             
          
-    margin-top: 200px;
+  
      background-color: brown;
      height: 60px;
      width: 430px;
   
    }
   
-   .credits{
-         
-     margin-left: 300px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
   
-  
-  } 
   
   .pp{
     
@@ -587,7 +716,7 @@
     display: grid;
     margin-right: 5000px;
      padding-top: 30px;
-  
+     padding-bottom: 300px;
   }
 
 
@@ -664,13 +793,60 @@
 
 
   }
+  .credits{
 
+
+    margin-left: 140px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 12px;
+    margin-left: 10px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 12px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
 
 
  
 }
-
 @media only screen and (width:412px) and (height: 915px){
   
   body{
@@ -712,356 +888,14 @@
    .ciao2{
             
          
-    margin-top: 200px;
-     background-color: brown;
-     height: 60px;
-     width: 411px;
-  
-   }
-  
-   .credits{
-         
-     margin-left: 280px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
-  
-  
-  } 
-  
-  .pp{
-    
-     color: white;
-     font-size: 17px;
-  
-  
-  
-  
-  
-  
-  }
    
-  
-
-  a{
-    text-decoration: none;
-
-
-  }
-
-  .box{
-    display: grid;
-    margin-right: 5000px;
-     padding-top: 30px;
-  
-  }
-
-
- 
-  .imgc{
-    width: 300px;
-    height: 500px;
-    object-fit: scale-down;
-    margin-left: 50px;
-
-
-
-  }
-  .dive{
-      height: 500; width: 360px; 
-    
-  
-  }
-  .l{
-
-  margin-left: 60px;
-
-
-  }
-
-  .calc{
-    font-size: 40px; 
-    font-family: Roboto; 
-    color: white; 
-    margin-left: 50px; 
-    padding-top: 20px;
-
-  }
-
-  .calcd{
-    font-size: 30px; 
-    margin-left: 55px; 
-    width: 300px;
-    height: 100px; 
-    font-family:   Roboto; 
-    color: white; 
-
-
-  }
-
-  .box3{
-    display: grid;
-    position: center;
-     width: 1px;
-
-
-
-  }
-
-
-  .av{
-    font-size: 20px; 
-    margin-left: 50px; 
-    width: 115px;
-    font-family:   Roboto; 
-    color: white;
-
-
-
-
-
-  }
-  
-  .ba{
-    height: 240; 
-    width: 240px; 
-    margin-left: 30px;
-   
-
-
-  }
-  
-
-
-
- 
-}
-
-@media only screen and (width:360px) and (height: 740px){
-  
-  body{
-    background-color: #535cd6;
-  
-    width:375px;
-    margin: 0%;
-    height: 800px;
-   
-  }
-  
-    span{
-      margin-left: 40px;
-    
-  
-   }
-  
-   .spazio{
-      margin-left: 63px;
-  
-      padding-top: 10px;
-      width: 344px;
-  
-  
-  
-   }
-   .button1{
-    Border: none !important; background: none !important;
-    
-  
-  
-  }
-  
-   .reso{
-  height: 100px;
-  width: 100px;
-   }
-  
-   .ciao2{
-            
-         
-    margin-top: 200px;
-     background-color: brown;
-     height: 60px;
-     width: 411px;
-  
-   }
-  
-   .credits{
-         
-     margin-left: 280px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
-  
-  
-  } 
-  
-  .pp{
-    
-     color: white;
-     font-size: 17px;
-  
-  
-  
-  
-  
-  
-  }
-   
-  
-
-  a{
-    text-decoration: none;
-
-
-  }
-
-  .box{
-    display: grid;
-    margin-right: 5000px;
-     padding-top: 30px;
-  
-  }
-
-
- 
-  .imgc{
-    width: 300px;
-    height: 500px;
-    object-fit: scale-down;
-    margin-left: 50px;
-
-
-
-  }
-  .dive{
-      height: 500; width: 360px; 
-    
-  
-  }
-  .l{
-
-  margin-left: 60px;
-
-
-  }
-
-  .calc{
-    font-size: 40px; 
-    font-family: Roboto; 
-    color: white; 
-    margin-left: 50px; 
-    padding-top: 20px;
-
-  }
-
-  .calcd{
-    font-size: 30px; 
-    margin-left: 55px; 
-    width: 300px;
-    height: 100px; 
-    font-family:   Roboto; 
-    color: white; 
-
-
-  }
-
-  .box3{
-    display: grid;
-    position: center;
-     width: 1px;
-
-
-
-  }
-
-
-  .av{
-    font-size: 20px; 
-    margin-left: 50px; 
-    width: 115px;
-    font-family:   Roboto; 
-    color: white;
-
-
-
-
-
-  }
-  
-  .ba{
-    height: 240; 
-    width: 240px; 
-    margin-left: 30px;
-   
-
-
-  }
-
-
-
- 
-}
-
-@media only screen and (width:412px) and (height: 915px){
-  
-  body{
-    background-color: #535cd6;
-  
-    width:375px;
-    margin: 0%;
-    height: 800px;
-   
-  }
-  
-    span{
-      margin-left: 40px;
-    
-  
-   }
-  
-   .spazio{
-      margin-left: 63px;
-  
-      padding-top: 10px;
-      width: 344px;
-  
-  
-  
-   }
-   .button1{
-    Border: none !important; background: none !important;
-    
-  
-  
-  }
-  
-   .reso{
-  height: 100px;
-  width: 100px;
-   }
-  
-   .ciao2{
-            
-         
-    margin-top: 200px;
      background-color: brown;
      height: 60px;
      width: 415px;
   
    }
   
-   .credits{
-         
-     margin-left: 280px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
-  
-  
-  } 
+   
   
   .pp{
     
@@ -1087,7 +921,7 @@
     display: grid;
     margin-right: 5000px;
      padding-top: 30px;
-  
+     padding-bottom: 30px;
   }
 
 
@@ -1164,12 +998,292 @@
 
 
   }
+
+  .credits{
+
+
+    margin-left: 105px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 13px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 13px;
+    margin-left: 10px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 13px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
+
  
 
 
 
  
 }
+
+
+@media only screen and (width:360px) and (height: 740px){
+  
+  body{
+    background-color: #535cd6;
+  
+    width:305px;
+    margin: 0%;
+    height: 800px;
+   
+  }
+  
+    span{
+      margin-left: 40px;
+    
+  
+   }
+  
+   .spazio{
+      margin-left: 43px;
+    
+      padding-top: 10px;
+      width: 314px;
+  
+  
+  
+   }
+   .button1{
+    Border: none !important; background: none !important;
+    
+  
+  
+  }
+  
+   .reso{
+  height: 100px;
+  width: 100px;
+   }
+  
+   .ciao2{
+            
+         
+ 
+     background-color: brown;
+     height: 60px;
+     width: 360px;
+  
+   }
+  
+  
+  
+  
+  
+  .pp{
+    
+     color: white;
+     font-size: 15px;
+  
+  
+  
+  
+  
+  
+  }
+   
+  
+
+  a{
+    text-decoration: none;
+
+
+  }
+
+  .box{
+    display: grid;
+   
+     padding-top: 30px;
+     padding-bottom: 50px;
+  
+  }
+
+
+ 
+  .imgc{
+    width: 300px;
+    height: 500px;
+    object-fit: scale-down;
+    margin-left: 10px;
+
+
+
+  }
+  .dive{
+      height: 500; width: 360px; 
+    
+  
+  }
+  .dive2{
+       margin-left: 1px;
+
+
+
+  }
+
+  .dive3{
+    margin-left: -55px;
+
+
+
+  }
+
+  .l{
+
+  margin-left: 60px;
+
+
+  }
+
+  .calc{
+    font-size: 40px; 
+    font-family: Roboto; 
+    color: white; 
+    margin-left: 50px; 
+    padding-top: 20px;
+
+  }
+
+  .calcd{
+    font-size: 30px; 
+    margin-left: 55px; 
+    width: 300px;
+    height: 100px; 
+    font-family:   Roboto; 
+    color: white; 
+
+
+  }
+
+  .box3{
+    display: grid;
+    position: center;
+     width: 1px;
+
+
+
+  }
+
+
+  .av{
+    font-size: 20px; 
+    margin-left: 50px; 
+    width: 115px;
+    font-family:   Roboto; 
+    color: white;
+
+
+
+
+
+  }
+  
+  .ba{
+    height: 240; 
+    width: 240px; 
+    margin-left: 30px;
+   
+
+
+  }
+
+
+  .credits{
+
+
+    margin-left: 100px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 11px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 10px;
+    margin-left: 11px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 15px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 11px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
+  
+
+
+
+ 
+}
+
+
 @media only screen and (width:768px) and (height: 1024px){
   
   body{
@@ -1189,9 +1303,9 @@
   
    .spazio{
       margin-left: 300px;
-   
+      
       padding-top: 10px;
-      width: 470px;
+      width: 460px;
   
   
   
@@ -1211,23 +1325,14 @@
    .ciao2{
             
          
-    margin-top: 355px;
+    
      background-color: brown;
-     height: 60px;
-     width: 770px;
+     height: 100px;
+     width: 766px;
   
    }
   
-   .credits{
-         
-     margin-left: 645px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
-  
-  
-  } 
+
   
   .pp{
     
@@ -1252,25 +1357,27 @@
   .box{
     
     display: grid;
-    position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
-  
+    
+    margin-left: 50px;
+    width: 1px; 
+    padding-top: 50px;
+    padding-bottom: 200px;
   }
 
 
  
   .imgc{
-    width: 300px;
-    height: 500px;
+    width: 600px;
+    height: 800px;
     object-fit: scale-down;
-    margin-left: 50px;
+    
 
 
 
   }
   .dive{
-      height: 500; width: 360px; 
-    
+      width: 600px;
+   
   
   }
   .l{
@@ -1284,14 +1391,14 @@
     font-size: 40px; 
     font-family: Roboto; 
     color: white; 
-    margin-left: 50px; 
+    margin-left: 105px; 
     padding-top: 20px;
 
   }
 
   .calcd{
     font-size: 30px; 
-    margin-left: 55px; 
+    margin-left: 105px; 
     width: 300px;
     height: 100px; 
     font-family:   Roboto; 
@@ -1303,8 +1410,8 @@
   .box3{
     display: grid;
     position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
-
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; padding-top: 50px;
+    margin-left: 105px; 
 
 
   }
@@ -1312,13 +1419,26 @@
 
   .av{
     font-size: 20px; 
-    margin-left: 50px; 
+    
     width: 115px;
     font-family:   Roboto; 
     color: white;
 
 
 
+
+
+  } 
+
+  .dive2{
+    margin-left: 10px;
+   
+
+
+  }
+
+  .dive3{
+    margin-left: 2px;
 
 
   }
@@ -1331,6 +1451,56 @@
 
 
   }
+
+  .credits{
+
+
+    margin-left: 290px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 20px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 40px;
+    
+    
+    
+    
+    
+    
+    }
 
 
 
@@ -1356,10 +1526,10 @@
    }
   
    .spazio{
-      margin-left: 350px;
+      margin-left: 340px;
       
       padding-top: 10px;
-      width: 470px;
+      width: 460px;
   
   
   
@@ -1379,23 +1549,14 @@
    .ciao2{
             
          
-    margin-top: 505px;
+    
      background-color: brown;
-     height: 60px;
-     width: 820px;
+     height: 100px;
+     width: 805px;
   
    }
   
-   .credits{
-         
-     margin-left: 680px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 14px;
-  
-  
-  } 
+
   
   .pp{
     
@@ -1420,25 +1581,27 @@
   .box{
     
     display: grid;
-    position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
-  
+    
+    margin-left: 80px;
+    width: 1px; 
+    padding-top: 50px;
+    padding-bottom: 200px;
   }
 
 
  
   .imgc{
-    width: 300px;
-    height: 500px;
+    width: 600px;
+    height: 800px;
     object-fit: scale-down;
-    margin-left: 50px;
+    
 
 
 
   }
   .dive{
-      height: 500; width: 360px; 
-    
+      width: 600px;
+   
   
   }
   .l{
@@ -1452,14 +1615,14 @@
     font-size: 40px; 
     font-family: Roboto; 
     color: white; 
-    margin-left: 50px; 
+    margin-left: 105px; 
     padding-top: 20px;
 
   }
 
   .calcd{
     font-size: 30px; 
-    margin-left: 55px; 
+    margin-left: 105px; 
     width: 300px;
     height: 100px; 
     font-family:   Roboto; 
@@ -1471,8 +1634,8 @@
   .box3{
     display: grid;
     position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
-
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; padding-top: 50px;
+    margin-left: 105px; 
 
 
   }
@@ -1480,7 +1643,7 @@
 
   .av{
     font-size: 20px; 
-    margin-left: 50px; 
+    
     width: 115px;
     font-family:   Roboto; 
     color: white;
@@ -1488,6 +1651,19 @@
 
 
 
+
+  } 
+
+  .dive2{
+    margin-left: 10px;
+   
+
+
+  }
+
+  .dive3{
+    margin-left: 2px;
+    
 
   }
   
@@ -1499,6 +1675,56 @@
 
 
   }
+
+  .credits{
+
+
+    margin-left: 325px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 20px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 40px;
+    
+    
+    
+    
+    
+    
+    }
  
 
 
@@ -1525,10 +1751,10 @@
    }
   
    .spazio{
-      margin-left: 451px;
+      margin-left: 430px;
       
       padding-top: 10px;
-      width: 570px;
+      width: 565px;
   
   
   
@@ -1548,29 +1774,20 @@
    .ciao2{
             
          
-    margin-top: 563px;
+    
      background-color: brown;
-     height: 80px;
-     width: 1024px;
+     height: 100px;
+     width: 1007px;
   
    }
   
-   .credits{
-         
-     margin-left: 840px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 20px;
-  
-  
-  } 
+
   
   .pp{
     
      color: white;
      font-size: 30px;
-    
+  
   
   
   
@@ -1589,25 +1806,27 @@
   .box{
     
     display: grid;
-    position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 5px; margin-top: 50px;
-  
+    
+    margin-left: 180px;
+    width: 1px; 
+    padding-top: 50px;
+    padding-bottom: 200px;
   }
 
 
  
   .imgc{
-    width: 360px;
-    height: 600px;
+    width: 600px;
+    height: 800px;
     object-fit: scale-down;
-    margin-left: 20px;
+    
 
 
 
   }
   .dive{
-      height: 500; width: 360px; 
-    
+      width: 600px;
+   
   
   }
   .l{
@@ -1618,18 +1837,18 @@
   }
 
   .calc{
-    font-size: 60px; 
+    font-size: 40px; 
     font-family: Roboto; 
     color: white; 
-    margin-left: 50px; 
+    margin-left: 105px; 
     padding-top: 20px;
 
   }
 
   .calcd{
-    font-size: 40px; 
-    margin-left: 55px; 
-    width: 400px;
+    font-size: 30px; 
+    margin-left: 105px; 
+    width: 300px;
     height: 100px; 
     font-family:   Roboto; 
     color: white; 
@@ -1640,23 +1859,36 @@
   .box3{
     display: grid;
     position: center;
-    grid-template-columns: 1fr 1fr 1fr; width: 10px; margin-top: 50px;
-
+    grid-template-columns: 1fr 1fr 1fr; width: 10px; padding-top: 50px;
+    margin-left: 105px; 
 
 
   }
 
 
   .av{
-    font-size: 25px; 
-    margin-left: 50px; 
-    width: 150px;
+    font-size: 20px; 
+    
+    width: 115px;
     font-family:   Roboto; 
     color: white;
 
 
 
 
+
+  } 
+
+  .dive2{
+    margin-left: 10px;
+   
+
+
+  }
+
+  .dive3{
+    margin-left: 2px;
+    
 
   }
   
@@ -1668,6 +1900,56 @@
 
 
   }
+
+  .credits{
+
+
+    margin-left: 485px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 21px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 21px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 21px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 40px;
+    
+    
+    
+    
+    
+    
+    }
  
 
 
@@ -1723,16 +2005,7 @@
   
    }
   
-   .credits{
-         
-     margin-left: 750px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 20px;
-  
-  
-  } 
+   
   
   .pp{
     
@@ -1775,7 +2048,7 @@
   }
   .dive{
       
-      width: 600px; 
+       
     
   
   }
@@ -1833,7 +2106,55 @@
 
   }
 
+  .credits{
 
+
+    margin-left: 440px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
 
  
@@ -1887,16 +2208,7 @@
   
    }
   
-   .credits{
-         
-     margin-left: 750px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 20px;
   
-  
-  } 
   
   .pp{
     
@@ -1996,6 +2308,55 @@
 
 
   }
+  .credits{
+
+
+    margin-left: 440px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 20px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 20px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
 
 
@@ -2044,23 +2405,13 @@
    .ciao2{
             
          
-    margin-top: 735px;
+    
      background-color: brown;
      height: 85px;
      width: 915px;
   
    }
   
-   .credits{
-         
-     margin-left: 700px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 25px;
-  
-  
-  } 
   
   .pp{
     
@@ -2087,7 +2438,7 @@
     margin-right: 5000px;
      padding-top: 30px;
      margin-left: 150px;
-  
+     padding-bottom: 710px;
   }
 
 
@@ -2160,7 +2511,55 @@
 
 
   }
+  .credits{
 
+
+    margin-left: 350px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 23px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 23px;
+    margin-left: 15px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 25px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 23px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
  
 
@@ -2190,7 +2589,7 @@
       margin-left: 80px;
       
       padding-top: 10px;
-      width: 311px;
+      width: 330px;
   
   
   
@@ -2210,28 +2609,19 @@
    .ciao2{
             
          
-    margin-top: 300px;
+    
      background-color: brown;
      height: 60px;
      width: 415px;
   
    }
   
-   .credits{
-         
-     margin-left: 320px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 11px;
-  
-  
-  } 
+   
   
   .pp{
     
      color: white;
-     font-size: 15px;
+     font-size: 16px;
   
   
   
@@ -2252,7 +2642,7 @@
     display: grid;
     margin-right: 5000px;
      padding-top: 50px;
-  
+     padding-bottom: 300px;
   }
 
 
@@ -2330,6 +2720,55 @@
 
   }
  
+  .credits{
+
+
+    margin-left: 70px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 15px;
+    
+    
+    
+    } 
+    
+     
+    .sube2{
+    
+    
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    
+    
+    
+    } 
+    
+    .sube3{
+    
+    margin-left: 10px;
+    font-family: "Roboto", sans-serif;
+     font-style: normal;
+    color: white;
+    font-size: 15px;
+    
+    
+    
+    
+    } 
+    .paddings{
+    
+    padding-top: 20px;
+    
+    
+    
+    
+    
+    
+    }
 
 
  
@@ -2368,25 +2807,59 @@
    }
   
    .ciao2{
-            
-         
-    margin-top: 300px;
-     background-color: brown;
-     height: 90px;
-     width: 100%;
+    background-color: brown;
+    height: 100px;
+    width: 1897px;
+
+  }
+
+ .credits{
+   
   
-   }
+   margin-left: 1470px;
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 15px;
+ 
+
+
+ } 
+ .sube2{
+    
   
-   .credits{
-         
-     margin-left: 1700px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 15px;
-  
-  
-  } 
+    font-family: "Roboto", sans-serif;
+      font-style: normal;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+ 
+
+
+ } 
+
+ .sube3{
+    
+   margin-left: 40px;
+   font-family: "Roboto", sans-serif;
+     font-style: normal;
+   color: white;
+   font-size: 15px;
+   
+
+
+
+} 
+ .paddings{
+
+  padding-top: 40px;
+
+
+
+
+
+
+ }
   
   .pp{
     
@@ -2417,7 +2890,7 @@
     display: grid;
     position: center;
     grid-template-columns: 1fr 1fr 1fr; width: 1px; margin-top: 50px;
-  
+    padding-bottom: 200px;
   }
  
   .imgc{

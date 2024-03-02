@@ -396,11 +396,11 @@ interfaccia desktop
 
 
 
-
+<div class="ciao2">&nbsp;<p class="credits">©2024 Frang125</p> </div>
   
 
 
-
+margin-left: 1700px;
 
 
 
