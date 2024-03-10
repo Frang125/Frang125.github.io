@@ -2,7 +2,7 @@
     
 
 
-   @media only screen and (min-width:375px) and (max-width:411px) and (height:667px){
+   @media only screen and (min-width:375px) and (max-width:411px){
    
  
     body{
@@ -1798,7 +1798,7 @@
    .spazio{
    
     width: 400px;
-    margin-left: 1400px;
+    margin-left: 1480px;
     
 
 
@@ -1846,7 +1846,7 @@
      background-color: brown;
      
      height: 100px;
-     width: 1897px;
+     width: 1915px;
 
    }
 
