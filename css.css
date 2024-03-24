@@ -1,8 +1,6 @@
 
     
-
-
-   @media only screen and (min-width:375px) and (height:667px){
+@media only screen and (min-width:375px) and (max-width:413px) and (height:667px){
    
  
     body{
@@ -74,6 +72,135 @@
        background-color: brown;
        height: 60px;
        width: 375px;
+ 
+     }
+ 
+     .credits{
+       
+       margin-left: 100px;
+       font-family: "Roboto", sans-serif;
+         font-style: normal;
+       color: white;
+       font-size: 11px;
+ 
+ 
+    } 
+
+    .sube2{
+     
+   
+      font-family: "Roboto", sans-serif;
+        font-style: normal;
+      color: white;
+      font-size: 11px;
+      margin-left: 10px;
+   
+ 
+ 
+   } 
+ 
+   .sube3{
+      
+     margin-left: 10px;
+     font-family: "Roboto", sans-serif;
+       font-style: normal;
+     color: white;
+     font-size: 11px;
+     
+  
+ 
+ 
+  } 
+   .paddings{
+ 
+    padding-top: 15px;
+ 
+ 
+ 
+ 
+ 
+ 
+   }
+   
+  
+ 
+ 
+ 
+    
+ }
+ /*my phone size*/
+   @media only screen and (width:384px) and (height:721.08px){
+   
+ 
+    body{
+       background-color:#535cd6;
+       
+       width: 290px;
+       margin: 0%;
+       height: 60px;
+      
+     }
+     p{
+       font-family: "Roboto", sans-serif;
+       
+       font-style: normal;
+ 
+     }
+     span{
+        margin-left: 1px;
+      
+ 
+     }
+ 
+     .spazio{
+       
+       height: 60px;
+       margin-left: 60px;
+       width: 311px;
+       
+ 
+     }
+     .box{
+       color: white; 
+       font-size: 32px; 
+       width: 300px;
+     
+       margin-left: 20px;
+       
+ 
+     }
+    
+     .acc{
+       height:60px;
+       padding-bottom: 600px;
+     }
+     
+     .pp{
+ 
+       color: white;
+       font-size: 15px;
+ 
+ 
+ 
+ 
+ 
+ 
+    }
+    .image{
+       width: 200px;
+     height: 200px;
+     
+     margin-left: 90px;
+ 
+ 
+    } 
+    .ciao2{
+          
+       
+     
+       background-color: brown;
+       height: 60px;
+       width: 384px;
  
      }
  
@@ -408,109 +535,95 @@
 
    }
    span{
-      margin-left: 1px;
-    
+    color:white;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
 
    }
 
    .spazio{
-     
+   
+     width: 290px;
      margin-left: 130px;
-     width: max-content;
 
 
 
    }
    .box{
-     color: white; 
-     font-size: 32px; 
-     width: 300px;
+    margin-left: 10px; 
    
-     margin-left: 20px;
-     
+     color: white;
+     font-size: 40px;
+     width: 400px;
 
    }
   
    .acc{
+    width: 300px;
     
-     height:60px;
-     padding-bottom: 750px;
    }
    
    .pp{
-
-     color: white;
-     font-size: 15px;
- 
-
+    color: white;
+     font-size: 14px;
+     
 
 
 
 
   }
   .image{
-     width: 200px;
-   height: 200px;
-   
-   margin-left: 90px;
+     width: 300px;
+     height: 300px;
+     margin-left: 40px;
+     padding-bottom: 50px;
 
 
   } 
   .ciao2{
-        
-     
-     
-     background-color: brown;
-     height: 60px;
-     width: 430px;
+      background-color: brown;
+      width: 430px;
+      height: 50px;
+  
 
    }
 
-   .credits{
-     
-     margin-left: 155px;
-     font-family: "Roboto", sans-serif;
-       font-style: normal;
-     color: white;
-     font-size: 11px;
-
-
-  } 
+   
   .sube2{
      
-   
-    font-family: "Roboto", sans-serif;
-      font-style: normal;
-    color: white;
-    font-size: 11px;
-    margin-left: 10px;
- 
+  color:white;
+
 
 
  } 
 
  .sube3{
-    
-   margin-left: 10px;
-   font-family: "Roboto", sans-serif;
-     font-style: normal;
-   color: white;
-   font-size: 11px;
+    padding-left: 10px;
+   
    
 
 
 
 } 
+.credits{
+    padding-left: 100px;
+   
+
+} 
  .paddings{
 
-  padding-top: 15px;
+ 
 
-
-
+    padding-top: 10px;
+    padding-left: 5px;
 
 
 
  }
+
+
+
 
 
 
@@ -525,7 +638,7 @@
      
      
      margin: 0%;
-     height: 60px;
+     
      
     
    }
@@ -589,7 +702,7 @@
      
     background-color: brown;
     height: 60px;
-    width: 460px;
+    width: 40px;
 
   }
    
@@ -1410,7 +1523,7 @@
    .spazio{
       
       margin-left: 220px;
-      width: 300px;
+      width: 310px;
       
 
 
@@ -1668,8 +1781,8 @@
 
    .spazio{
    
-    margin-left: 110px;
-      width: 300px;
+    margin-left: 100px;
+      width: 310px;
       
 
 
