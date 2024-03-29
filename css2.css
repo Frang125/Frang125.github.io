@@ -220,8 +220,229 @@ a{
  
 
   } 
-
+ /* my phone size */
+  @media only screen and (width:384px) and (height:721.08px){
    
+    body{
+      background-color: #535cd6;
+    
+      width:100%;
+      margin: 0%;
+      height: 800px;
+     
+    }
+    
+      span{
+        margin-left: 20px;
+      
+    
+     }
+    
+     .spazio{
+        margin-left: 60px;
+        
+        padding-top: 10px;
+        width: 311px;
+    
+    
+    
+     }
+     .button1{
+      Border: none !important; background: none !important;
+      
+    
+    
+    }
+    
+     .reso{
+    height: 100px;
+    width: 100px;
+     }
+    
+     .ciao2{
+              
+           
+       background-color: brown;
+       height: 60px;
+       width: 100%;
+    
+     }
+    
+    
+  
+  .credits{
+  
+  
+  margin-left: 95px;
+  font-family: "Roboto", sans-serif;
+    font-style: normal;
+  color: white;
+  font-size: 12px;
+  
+  
+  
+  } 
+  
+  
+  .pp{
+      
+       color: white;
+       font-size: 15px;
+    
+    
+    
+    
+    
+    
+    }
+     
+    
+  
+  a{
+      text-decoration: none;
+  
+  
+    }
+  
+  .box{
+      display: grid;
+      margin-right: 5000px;
+       padding-top: 50px;
+       padding-bottom: 100px;
+    
+    }
+  
+  
+   
+  .imgc{
+      width: 300px;
+      height: 500px;
+      object-fit: scale-down;
+      margin-left: 35px;
+  
+  
+  
+    }
+  .dive{
+        height: 500; width: 350px; 
+      
+    
+    }
+  .l{
+  
+    margin-left: 60px;
+  
+  
+    }
+  
+  .calc{
+      font-size: 40px; 
+      font-family: Roboto; 
+      color: white; 
+      margin-left: 50px; 
+      padding-top: 20px;
+  
+    }
+  
+  .calcd{
+      font-size: 30px; 
+      margin-left: 55px; 
+      width: 300px;
+      height: 100px; 
+      font-family:   Roboto; 
+      color: white; 
+  
+  
+    }
+  
+  .box3{
+      display: grid;
+      position: center;
+       width: 1px;
+  
+  
+  
+    }
+  
+  
+  .av{
+      font-size: 20px; 
+      margin-left: 50px; 
+      width: 115px;
+      font-family:   Roboto; 
+      color: white;
+  
+  
+  
+  
+  
+    }
+    
+  .ba{
+      height: 240; 
+      width: 240px; 
+      margin-left: 30px;
+  
+  
+  
+    }
+  .credits{
+  
+  
+      margin-left: 95px;
+      font-family: "Roboto", sans-serif;
+        font-style: normal;
+      color: white;
+      font-size: 12px;
+      
+      
+      
+      } 
+      
+       
+    .sube2{
+      
+      
+      font-family: "Roboto", sans-serif;
+        font-style: normal;
+      color: white;
+      font-size: 12px;
+      margin-left: 9px;
+      
+      
+      
+      } 
+      
+    .sube3{
+      
+      margin-left: 7px;
+      font-family: "Roboto", sans-serif;
+       font-style: normal;
+      color: white;
+      font-size: 12px;
+      
+      
+      
+      
+      } 
+    .paddings{
+      
+      padding-top: 20px;
+      
+      
+      
+      
+      
+      
+      }
+    
+   
+  
+ 
+ 
+ 
+    
+ }  
 @media only screen and (width:414px) and (height: 896px){
   body{
     background-color: #535cd6;
@@ -2809,7 +3030,7 @@ a{
    .ciao2{
     background-color: brown;
     height: 100px;
-    width: 1897px;
+    width: 100%;
 
   }
 

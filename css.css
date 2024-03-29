@@ -1889,11 +1889,11 @@
    
  
   body{
-     background-image: url("ss1.png");
-     background-repeat: repeat;
-     width:480px;
+    background-color:#535cd6;
+
+     width:100%;
      margin: 0%;
-     height: 50px;
+     
     
    }
    p{
@@ -1959,14 +1959,14 @@
      background-color: brown;
      
      height: 100px;
-     width: 1915px;
+     width: 100%;
 
    }
 
   .credits{
     
     
-    margin-left: 1470px;
+    margin-left: 1500px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
