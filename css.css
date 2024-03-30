@@ -656,9 +656,9 @@
 
    .spazio{
      
-     margin-left: 140px;
+     margin-left: 139px;
      width: max-content;
-
+    
 
    }
    .box{
@@ -1882,7 +1882,7 @@
 
   
 }
-@media only screen and (orientation: landscape) and (min-width:992px){
+@media only screen and (orientation: landscape) and (min-width:1px){
    
  
  

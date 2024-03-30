@@ -40,7 +40,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 95px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -56,7 +56,7 @@
       font-style: normal;
     color: white;
     font-size: 11px;
-    margin-left: 90px;
+    margin-left: 10px;
  
 
 
@@ -64,7 +64,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 17px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -120,7 +120,7 @@
  
 
   } 
-
+/* my phone*/
   @media only screen and (width:384px) and (height:721.08px){
    
     body{
@@ -161,7 +161,7 @@
    .credits{
      
     
-     margin-left: 15px;
+     margin-left: 110px;
       font-family: "Roboto", sans-serif;
         font-style: normal;
       color: white;
@@ -177,7 +177,7 @@
         font-style: normal;
       color: white;
       font-size: 11px;
-      margin-left: 90px;
+      margin-left: 10px;
    
   
   
@@ -185,7 +185,7 @@
   
    .sube3{
       
-     margin-left: 20px;
+     margin-left: 10px;
      font-family: "Roboto", sans-serif;
        font-style: normal;
      color: white;
@@ -285,7 +285,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 140px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -301,7 +301,7 @@
       font-style: normal;
     color: white;
     font-size: 11px;
-    margin-left: 125px;
+    margin-left: 10px;
  
 
 
@@ -309,7 +309,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -411,7 +411,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 110px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -427,7 +427,7 @@
       font-style: normal;
     color: white;
     font-size: 11px;
-    margin-left: 100px;
+    margin-left: 10px;
  
 
 
@@ -435,7 +435,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -532,7 +532,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 110px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -548,7 +548,7 @@
       font-style: normal;
     color: white;
     font-size: 13px;
-    margin-left: 110px;
+    margin-left: 10px;
  
 
 
@@ -556,7 +556,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -649,7 +649,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 95px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -665,7 +665,7 @@
       font-style: normal;
     color: white;
     font-size: 13px;
-    margin-left: 90px;
+    margin-left: 10px;
  
 
 
@@ -673,7 +673,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -772,7 +772,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 95px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -788,7 +788,7 @@
       font-style: normal;
     color: white;
     font-size: 11px;
-    margin-left: 80px;
+    margin-left: 10px;
  
 
 
@@ -796,7 +796,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -892,7 +892,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 410px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -908,7 +908,7 @@
       font-style: normal;
     color: white;
     font-size: 15px;
-    margin-left: 400px;
+    margin-left: 10px;
  
 
 
@@ -916,7 +916,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 10px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -1014,7 +1014,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 455px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1030,7 +1030,7 @@
       font-style: normal;
     color: white;
     font-size: 15px;
-    margin-left: 450px;
+    margin-left: 10px;
  
 
 
@@ -1038,7 +1038,7 @@
 
  .sube3{
     
-   margin-left: 20px;
+   margin-left: 15px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -1141,7 +1141,7 @@
  .credits{
    
   
-   margin-left: 30px;
+   margin-left: 500px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1157,7 +1157,7 @@
       font-style: normal;
     color: white;
     font-size: 22px;
-    margin-left: 450px;
+    margin-left: 10px;
  
 
 
@@ -1165,7 +1165,7 @@
 
  .sube3{
     
-   margin-left: 30px;
+   margin-left: 20px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -1266,7 +1266,7 @@
  .credits{
    
   
-   margin-left: 30px;
+   margin-left: 420px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1282,7 +1282,7 @@
       font-style: normal;
     color: white;
     font-size: 20px;
-    margin-left: 420px;
+    margin-left: 10px;
  
 
 
@@ -1385,7 +1385,7 @@
  .credits{
    
   
-   margin-left: 15px;
+   margin-left: 220px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1401,7 +1401,7 @@
       font-style: normal;
     color: white;
     font-size: 13px;
-    margin-left: 210px;
+    margin-left: 10px;
  
 
 
@@ -1505,7 +1505,7 @@
  .credits{
    
   
-   margin-left: 7px;
+   margin-left: 30px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1521,7 +1521,7 @@
       font-style: normal;
     color: white;
     font-size: 11px;
-    margin-left: 30px;
+    margin-left: 6px;
  
 
 
@@ -1529,7 +1529,7 @@
 
  .sube3{
     
-   margin-left: 7px;
+   margin-left: 5px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
@@ -1585,7 +1585,7 @@
 
  
 }
-/*  da fare  */
+
 @media only screen and (width:412px) and (height:914px){
   body{
     margin-left: 0px;
@@ -1625,7 +1625,7 @@
  .credits{
    
   
-   margin-left: 10px;
+   margin-left: 100px;
     font-family: "Roboto", sans-serif;
       font-style: normal;
     color: white;
@@ -1641,7 +1641,7 @@
       font-style: normal;
     color: white;
     font-size: 13px;
-    margin-left: 110px;
+    margin-left: 10px;
  
 
 
@@ -1649,7 +1649,7 @@
 
  .sube3{
     
-   margin-left: 10px;
+   margin-left: 15px;
    font-family: "Roboto", sans-serif;
      font-style: normal;
    color: white;
